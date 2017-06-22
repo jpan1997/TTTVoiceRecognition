@@ -8,20 +8,12 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1016441229340:android:69fd2c95fde894bf",
+        "mobilesdk_app_id": "1:1016441229340:android:e186f479df47d520",
         "android_client_info": {
-          "package_name": "jpan1997.berobotvoicerecognition"
+          "package_name": "gestream.berobotvoicerecognition"
         }
       },
       "oauth_client": [
-        {
-          "client_id": "1016441229340-568t68s17rn4o4m04ctsehtgi0is3gld.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "jpan1997.berobotvoicerecognition",
-            "certificate_hash": "944982f9f913b95b731e9fcb21ceff1b0479d07e"
-          }
-        },
         {
           "client_id": "1016441229340-o2m9qpclhob6i500q3sasrejicm8bu7d.apps.googleusercontent.com",
           "client_type": 3
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1016441229340-o2m9qpclhob6i500q3sasrejicm8bu7d.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
